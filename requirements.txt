@@ -1,0 +1,7 @@
+solara
+youtube-transcript-api
+langchain
+langchain-community
+faiss-cpu
+google-generativeai
+python-dotenv
